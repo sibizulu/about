@@ -1,0 +1,24 @@
+{
+  "name": "conversational-form",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-node5": "^12.0.1",
+    "babel-preset-react": "^6.24.1",
+    "react-scripts": "*"
+  },
+  "dependencies": {
+    "auto-bind": "^1.1.0",
+    "react": "^15.4.2",
+    "react-autobind": "^1.0.6",
+    "react-dom": "^15.4.2",
+    "styled-components": "^1.4.3",
+    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#harmony"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
