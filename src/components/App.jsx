@@ -16,14 +16,14 @@ const questions = [
   {
     buttons: [
       {
-        text: 'Who am i',
+        text: 'Who are you?',
         connect: 1,
-        value: 'whoami'
+        value: 'whoareyou'
       },
       {
-        text: 'You know me',
+        text: 'I know you',
         connect: 2,
-        value: 'youknowme'
+        value: 'iknowyou'
       }
     ],
     text: 'Hello',
