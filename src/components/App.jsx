@@ -30,17 +30,17 @@ const questions = [
     type: 'action'
   },
   {
-    text: 'Who am i Explained',
+    text: 'Sibiraj PP | Entrepreneur | Blockchain enthusiast | https://www.linkedin.com/in/sibizulu/',
     type: 'flash',
     connect: 3
   },
   {
-    text: 'You know me Explained',
+    text: 'Oh! great 🙂',
     type: 'flash',
     connect: 3
   },
   {
-    text: 'Done',
+    text: 'Thank You',
     type: 'end'
   }
 ]
